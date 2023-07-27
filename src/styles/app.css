@@ -1,0 +1,96 @@
+.editBtn {
+    margin: 5px;
+    padding: 5px 15px;
+    color: teal;
+    font-size: 14px;
+    background: transparent;
+    border: 1px solid green;
+    cursor: pointer;
+    border-radius: 10px;
+    height: 42px;
+    font-size: 20px;
+}
+
+.deleteBtn {
+    margin: 10px;
+    padding: 5px 15px;
+    color: red;
+    font-size: 14px;
+    background: transparent;
+    border: 1px solid red;
+    cursor: pointer;
+    border-radius: 10px;
+    height: 42px;
+    font-size: 20px;
+}
+
+.saveBtn {
+    margin: 10px;
+    padding: 5px 15px;
+    color: grey;
+    font-size: 14px;
+    background: transparent;
+    border: 1px solid grey;
+    cursor: pointer;
+    border-radius: 10px;
+    height: 42px;
+    font-size: 20px;
+}
+
+.inputEdit {
+    width: 200px;
+    height: 30px;
+    padding: 5px 15px;
+    margin: 10px;
+    border: 1px solid teal;
+    border-radius: 10px;
+    font-size: 20px;
+}
+
+.divTask {
+    display: inline;
+    width: 200px;
+    height: 30px;
+    margin: 10px;
+    padding: 5px 15px;
+    border-radius: 10px;
+    font-size: 20px;
+
+}
+
+.custom-select {
+    appearance: none;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    margin: 5px;
+    padding: 5px 15px;
+    color: black;
+    font-size: 14px;
+    background: transparent;
+    border: 1px solid black;
+    cursor: pointer;
+    border-radius: 10px;
+    height: 42px;
+    width: 140px;
+    font-size: 20px;
+  }
+
+  ul {
+    list-style: none;
+  }
+  
+  .in-progress {
+    border: 1px solid #C4B454;
+    color: #C4B454;
+  }
+  
+  .complete {
+    border: 1px solid green;
+    color: green;
+  }
+  
+  .todo {
+    border: 1px solid grey;
+    color:grey;
+  }
+  
